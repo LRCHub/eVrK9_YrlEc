@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "narrative",
+  "base_artist": "SawanoHiroyuki[nZk]:LiSA",
+  "createdAt": "2025-12-13T07:13:27.808431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angels Holocaust (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/01_Angels_Holocaust_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dante's Inferno (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/02_Dante's_Inferno_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Declaration Day (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/03_Declaration_Day_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dracula (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/04_Dracula_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dystopia (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/05_Dystopia_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Raven Wing (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/06_Raven_Wing_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seven Headed Whore (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/07_Seven_Headed_Whore_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Clouding (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/08_The_Clouding_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Watching Over Me (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/09_Watching_Over_Me_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wolf (A Narrative Soundscape)",
+      "artist": "Iced Earth",
+      "has_synced": false,
+      "path": "select/10_Wolf_(A_Narrative_Soundscape)_Iced_Earth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "narrative",
+      "artist": "SawanoHiroyuki[nZk] feat. LiSA",
+      "has_synced": true,
+      "path": "select/11_narrative_SawanoHiroyuki[nZk]_feat._LiSA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "narrative",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/12_narrative_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Narrative Of Soul Against Soul",
+      "artist": "AFI",
+      "has_synced": true,
+      "path": "select/13_Narrative_Of_Soul_Against_Soul_AFI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Narrative",
+      "artist": "August Burns Red",
+      "has_synced": true,
+      "path": "select/14_The_Narrative_August_Burns_Red.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Are The Narrative",
+      "artist": "Born of Osiris",
+      "has_synced": true,
+      "path": "select/15_You_Are_The_Narrative_Born_of_Osiris.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "At Calvary (Narrative)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/16_At_Calvary_(Narrative)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "At The Wailing Wall (Narrative)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/17_At_The_Wailing_Wall_(Narrative)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Beautiful Words (Narrative)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/18_Beautiful_Words_(Narrative)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Come to the Wailing Wall (Narrative)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/19_Come_to_the_Wailing_Wall_(Narrative)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "In Bethlehem (Narrative)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/20_In_Bethlehem_(Narrative)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "narrative",
+      "artist": "SawanoHiroyuki[nZk]:LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_narrative_SawanoHiroyuki[nZk]_LiSA.txt"
+    }
+  ]
+}
